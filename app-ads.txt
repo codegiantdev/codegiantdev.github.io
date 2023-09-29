@@ -1,5 +1,5 @@
 #Abmob
-
+google.com, pub-8286478112200292, DIRECT, f08c47fec0942fa0
 
 applovin.com, d68a761966522510722e31ef18ed24fa, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
